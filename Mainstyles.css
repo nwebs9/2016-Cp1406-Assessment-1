@@ -1,0 +1,54 @@
+@charset "utf-8";
+body {
+	text-align: justify;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-box-shadow: 0px 0px hsla(0,0%,99%,1.00);
+	box-shadow: 0px 0px hsla(0,0%,99%,1.00);
+	color: hsla(0,0%,0%,1.00);
+	background-color: hsla(0,0%,99%,1.00);
+	clear: both;
+	background-image: -webkit-linear-gradient(270deg,rgba(214,214,214,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(213,197,198,1.00) 0%,rgba(251,226,171,1.00) 40.41%,rgba(218,201,194,1.00) 58.55%,rgba(237,215,180,1.00) 96.89%,rgba(240,218,178,1.00) 100%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(214,214,214,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(213,197,198,1.00) 0%,rgba(251,226,171,1.00) 40.41%,rgba(218,201,194,1.00) 58.55%,rgba(237,215,180,1.00) 96.89%,rgba(240,218,178,1.00) 100%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(214,214,214,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(213,197,198,1.00) 0%,rgba(251,226,171,1.00) 40.41%,rgba(218,201,194,1.00) 58.55%,rgba(237,215,180,1.00) 96.89%,rgba(240,218,178,1.00) 100%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(214,214,214,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(0,0,0,1.00) 0%,rgba(213,197,198,1.00) 0%,rgba(251,226,171,1.00) 40.41%,rgba(218,201,194,1.00) 58.55%,rgba(237,215,180,1.00) 96.89%,rgba(240,218,178,1.00) 100%,rgba(0,0,0,1.00) 100%);
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+nav {
+	word-spacing: 1px;
+	-webkit-box-shadow: 0px 0px 0px;
+	box-shadow: 0px 0px 0px;
+	border-collapse: separate;
+	border-spacing: 156px 0px;
+	background-size: cover;
+	color: hsla(0,0%,99%,1.00);
+	text-align: center;
+	margin-right: 230px;
+}
+div {
+	text-align: center;
+
+}
+list {
+	right: 198px;
+
+
+
+
+}
+table {
+
+}
+p {
+	padding-left: 205px;
+	margin-left: 82px;
+}
+ul {
+	padding-left: 262px;
+}
